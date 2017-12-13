@@ -1,4 +1,4 @@
-# sfish
+# my_shell
 A bash like shell in C.
 
 Operating System(s) supported right now: Ubuntu 
